@@ -1,0 +1,13 @@
+    {
+		'People':['edward', 'sammy', 'paul'],
+		'Places':['toronto', 'spain', 'the moon'],
+		'Things':
+			{
+				'man-made':['guitar', 'jacket', 'swimming pool'],
+				'natural':
+					{
+						'materials':['wood', 'gravel'],
+						'formations':['mountain', 'river', 'valley']
+					}		
+			}
+	}
